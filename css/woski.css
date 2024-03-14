@@ -268,5 +268,26 @@ footer p {
         overflow: visible;
     }
 
+    .tra {
+		position: absolute;
+		color: white !important;
+			background-color:#ff4407;
+			padding: 15px;
+			border-radius: 10px;
+			cursor: pointer;
+
+            position: absolute;
+            color: white !important;
+           
+            padding: 15px;
+            border-radius: 10px;
+            cursor: pointer;
+            /* Centering */
+            left: 50%;
+            bottom:5%;
+            transform: translate(-50%, -50%);
+        
+		}
+
   }
-@
+
