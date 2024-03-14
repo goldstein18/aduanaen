@@ -7,6 +7,33 @@
  
 }
 
+/* ADD BUTTON NORMAL SIZES */
+
+.tra {
+    position: relative; 
+    bottom:48%; 
+    left:80%;
+    color: white !important;
+        background-color: #ff4407;
+        padding: 15px;
+        border-radius: 10px;
+        cursor: pointer;
+    
+    }
+    
+    .tra:hover {
+    position: relative; 
+    bottom:48%; 
+    left:80%;
+    color: white !important;
+    background-color: transparent;
+        border:1px solid #ff4407;
+        padding: 15px;
+        border-radius: 10px;
+        cursor: pointer;
+    
+    }
+
 
 /* FLECHA PULSANTE */
 .flecha-bajar {
@@ -272,6 +299,7 @@ footer p {
 		position: absolute;
 		color: white !important;
 			background-color:#ff4407;
+        
 			padding: 15px;
 			border-radius: 10px;
 			cursor: pointer;
