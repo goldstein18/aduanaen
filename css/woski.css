@@ -21,18 +21,7 @@
     
     }
     
-    .tra:hover {
-    position: relative; 
-    bottom:48%; 
-    left:80%;
-    color: white !important;
-    background-color: transparent;
-        border:1px solid #ff4407;
-        padding: 15px;
-        border-radius: 10px;
-        cursor: pointer;
-    
-    }
+  
 
 
 /* FLECHA PULSANTE */
