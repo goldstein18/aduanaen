@@ -12,7 +12,7 @@
 .tra {
     position: relative; 
     bottom:48%; 
-    left:80%;
+    left:75%; /* It was 80%*/
     color: white !important;
         background-color: #ff4407;
         padding: 15px;
