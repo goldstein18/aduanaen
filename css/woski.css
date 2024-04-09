@@ -21,6 +21,19 @@
     
     }
 
+.left-tra {
+    position: relative; 
+    bottom:48%; 
+    left:70%; /* It was 80%*/
+    text-align: center;
+    color: white !important;
+        /*background-color: #ff4407;
+        padding: 15px; */
+        border-radius: 10px;
+        cursor: pointer;
+    
+    }
+
 .tra-request {
 	 position: relative; 
     bottom:48%; 
