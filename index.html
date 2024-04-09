@@ -27,8 +27,14 @@
 	<style>
   @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-		
-	
+  .btn-secondary.active, .btn-secondary:active, .show>.btn-secondary.dropdown-toggle {
+	background-color: #ff4407 !important;
+	border:none !important;
+  }
+  .btn-secondary {
+	background-color: #ff4407 !important;
+	border:none !important;
+  }
 </style>
 </head>
 <body>
@@ -58,7 +64,15 @@
 					<span class="s2-txt4">Seconds</span>
 				</div>
 			</div>-->
-			<a class="tra" href="https://aduana2.vercel.app">ESPAÑOL</a>
+			<div class="dropdown tra">
+				<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				  English
+				</button>
+				<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+				  <a class="dropdown-item" href="https://www.aduanapp.mx">Spanish</a>
+				</div>
+			  </div>
+			<!--<a class="tra" href="https://aduana2.vercel.app">ESPAÑOL</a>-->
 			<p class="frase" style="font-size:2rem; color:white; text-align: center;"><strong>Proving customs journey can be, and will be, transparent.</strong></p>
 				<!--<div class="flecha-bajar" onclick="irASeccion()">&#8595;</div>-->
 			<div class="flecha-bajar" onclick="irASeccion()"><img style="min-width: 50px;" src="/images/aduana-arrow.svg"></div>
