@@ -14,8 +14,8 @@
     bottom:48%; 
     left:75%; /* It was 80%*/
     color: white !important;
-        background-color: #ff4407;
-        padding: 15px;
+        /*background-color: #ff4407;
+        padding: 15px; */
         border-radius: 10px;
         cursor: pointer;
     
@@ -305,20 +305,21 @@ footer p {
 		color: white !important;
 			background-color:#ff4407;
         
-			padding: 15px;
+			/*padding: 15px;*/
 			border-radius: 10px;
 			cursor: pointer;
 
             position: absolute;
             color: white !important;
            
-            padding: 15px;
+           
             border-radius: 10px;
             cursor: pointer;
             /* Centering */
             left: 50%;
             bottom:5%;
             transform: translate(-50%, -50%);
+           
         
 		}
 
