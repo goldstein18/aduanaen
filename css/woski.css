@@ -74,7 +74,7 @@
 }
 
 #seccionAbajo {
-    height: 200px; /* Altura de ejemplo era 200 */
+    height: auto; /* Altura de ejemplo era 200, se cambia a auto 22/07/24 */
   
 }
 
