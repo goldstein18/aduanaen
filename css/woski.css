@@ -8,11 +8,11 @@
 }
 
 /* ADD BUTTON NORMAL SIZES */
-
+/* will change to absolute, bottom 80 and left 35, previosly relative 48 and 75 */
 .tra {
     position: relative; 
-    bottom:48%; 
-    left:75%; /* It was 80%*/
+    bottom:80%; 
+    left:35%; /* It was 80%*/
     color: white !important;
         /*background-color: #ff4407;
         padding: 15px; */
