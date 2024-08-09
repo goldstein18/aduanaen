@@ -23,8 +23,8 @@
 
 .left-tra {
     position: relative; 
-    bottom:48%; 
-    left:70%; /* It was 80%*/
+    bottom:91%; 
+    left:60%; /* It was 80% and left 35*/
     text-align: center;
     color: white !important;
         /*background-color: #ff4407;
